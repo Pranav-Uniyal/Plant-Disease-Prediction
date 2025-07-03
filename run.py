@@ -47,7 +47,7 @@ class_names = [
 ]
 
 # Load the trained model
-model_path = r'modal\plant_disease_prediction_model.h5'
+model_path = r'modal\plant_disease_prediction_model.h5'  # add path of model according to your saved directory 
 model = load_model(model_path)
 
 # Ensure the upload directory exists

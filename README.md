@@ -9,7 +9,7 @@ This project uses a Convolutional Neural Network (CNN) to classify leaf images i
 ```
 Plant-Disease-Prediction/
 ├── PlantDisease.ipynb   # Jupyter notebook for training and experimentation
-├── run.py               # Python script for making predictions
+├── run.py               # Python script for making predictions i.e. Streamlit code 
 └── README.md            # Project documentation
 ```
 Download Model --> Download the pretrained model (model.h5) from the Releases section
